@@ -132,12 +132,12 @@ background-color:  #ff4c68;
       font-size: 17.1px;
     }
     h1{
-      font-size: 30px;
-      line-height: 1;
+      font-size: 30px !important;
+      line-height: 1 !important;
   }
     .cta-title{
-       font-size: 30px;
-      line-height: 1;
+       font-size: 30px !important;
+      line-height: 1 !important;
 }
   }
 }

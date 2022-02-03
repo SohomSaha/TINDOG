@@ -104,6 +104,12 @@ transform: scale(1.1);
 #cta{
 background-color:  #ff4c68;
 }
+.cta-title{
+  font-size: 3rem;
+  line-height: 1.25;
+  color: white;
+  font-family: 'Montserrat';
+}
 @media (max-width:990px) {
     #title{
       text-align: center;
@@ -125,6 +131,14 @@ background-color:  #ff4c68;
     .btn1{
       font-size: 17.1px;
     }
+    h1{
+      font-size: 30px;
+      line-height: 1;
+  }
+    .cta-title{
+       font-size: 30px;
+      line-height: 1;
+}
   }
 }
 #cta{
@@ -132,12 +146,7 @@ background-color:  #ff4c68;
   padding:7% 15%;
   text-align: center;
 }
-.cta-title{
-  font-size: 3rem;
-  line-height: 1.25;
-  color: white;
-  font-family: 'Montserrat';
-}
+
 /*footer*/
 #footer{
   text-align: center;
